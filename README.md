@@ -13,4 +13,4 @@ http://www.cell.com/cell/fulltext/S0092-8674(17)31136-4
 
 Acknowledgements
 --------
-Alan Herr (University of Washington contributed the yeast object)
+Alan Herr (University of Washington) contributed the yeast object.
